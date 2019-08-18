@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://47.98.146.215:3306/music?useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: Melon666
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  devtools:
+    restart:
+      enabled: true
